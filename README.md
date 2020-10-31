@@ -1,2 +1,2 @@
 # justdial-scrapper
-Scrape entity information using this scrapper from justdial.com
+Entity information scrapper from justdial.com
